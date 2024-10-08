@@ -1,6 +1,6 @@
 # 2D-SDL-Fighter-Game
 
-This is a simple two-player 2D fighter game developed using SDL (Simple DirectMedia Layer) and SDL_image. It’s a beginner-friendly project that demonstrates basic game development concepts like graphics, input handling, and game logic.
+This is a simple two-player 2D fighter game developed using SDL (Simple DirectMedia Layer) and SDL_image. It’s a beginner-friendly project that demonstrates basic game development concepts like graphics, input handling, and game logic. It still needs a lot of improving but I'm happy with it. 
 
 ## Features
 
