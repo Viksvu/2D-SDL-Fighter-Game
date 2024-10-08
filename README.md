@@ -29,6 +29,8 @@ sudo apt-get update
 sudo apt-get install cmake libsdl2-dev libsdl2-image-dev
 
 ```
-### Notes:
-`[CraftPix]([https://link-to-sprite-source](https://craftpix.net/freebies/city-man-pixel-art-character-sprite-sheets/))`
+
+## Thanks
+Special thanks to [CraftPix](https://craftpix.net/freebies/city-man-pixel-art-character-sprite-sheets/) for providing the sprites used in this game.
+
 
