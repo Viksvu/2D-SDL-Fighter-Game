@@ -2,7 +2,7 @@
 
 
 
-![Game Screenshot](Pictures/gamesc.png)
+![Game Screenshot](gamesc.png)
 
 
 
