@@ -16,19 +16,12 @@ This is a simple two-player 2D fighter game developed using SDL (Simple DirectMe
 
 ## Prerequisites
 
-You need the following installed on your Ubuntu system:
+You need the following installed on your system:
 
 - **CMake**
 - **SDL2**
 - **SDL2_image**
 
-Install them using:
-
-```bash
-sudo apt-get update
-sudo apt-get install cmake libsdl2-dev libsdl2-image-dev
-
-```
 
 ## Thanks
 Special thanks to [CraftPix](https://craftpix.net/freebies/city-man-pixel-art-character-sprite-sheets/) for providing the sprites used in this game.
